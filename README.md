@@ -6,13 +6,17 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 | `2026-09-27` |
+| **1** | 0 | 1 | 0 | `2026-09-27` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-No problems synced yet.
+### DSA (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [702. Largest Element](./DSA/Arrays/largest-element) | [JAVA](./DSA/Arrays/largest-element/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
 
 ---
 
